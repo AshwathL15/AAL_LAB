@@ -55,3 +55,22 @@ int main() {
 
     return 0;
 }
+
+
+
+OUTPUT:
+
+Enter the number of elements: 10
+Enter 10 elements:
+1
+30
+40
+22
+15
+2
+89
+74
+5
+66
+Sorted array in ascending order:
+1 2 5 15 22 30 40 66 74 89
