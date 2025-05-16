@@ -33,3 +33,9 @@ int main() {
 
     return 0;
 }
+
+
+OUTPUT:
+Enter the main text: THIS IS A SIMPLE EXAMPLE
+Enter the pattern to search: SIMPLE
+Pattern found at position 10
