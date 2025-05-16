@@ -36,9 +36,6 @@ int tsp(int mask, int pos) {
     return minCost;
 }
 
-OUTPUT:
-Minimum tour cost: 80
-
 int main() {
   
     for (int i = 0; i < (1 << N); i++) {
@@ -52,3 +49,7 @@ int main() {
 
     return 0;
 }
+
+
+OUTPUT:
+Minimum tour cost: 80
