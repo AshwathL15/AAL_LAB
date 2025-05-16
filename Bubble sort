@@ -29,3 +29,18 @@ int main() {
 
     return 0;
 }
+
+
+
+OUTPUT:
+Enter the number of elements: 7
+Enter 7 elements:
+8
+25
+3
+56
+58
+22
+99
+Sorted array in ascending order:
+3 8 22 25 56 58 99
