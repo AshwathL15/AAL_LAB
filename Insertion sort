@@ -29,3 +29,16 @@ int main() {
 
     return 0;
 }
+
+
+OUTPUT:
+Enter the number of elements: 6
+Enter 6 elements:
+32
+2
+24
+6
+89
+74
+Sorted array in ascending order:
+2 6 24 32 74 89
